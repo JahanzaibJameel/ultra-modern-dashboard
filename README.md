@@ -86,7 +86,8 @@ Clone and run locally:
 ```bash
 git clone https://github.com/JahanzaibJameel/ultra-modern-dashboard
 
-cd quantum-landing
+cd ultra-modern-dashboard
+
 ```
 
 Open **index.html** in your browser.
@@ -139,7 +140,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/JahanzaibJameel/ultra-modern-dashboard
 
-cd quantum-landing
+cd ultra-modern-dashboard
+
 ```
 
 Run with Live Server (optional):
