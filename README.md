@@ -316,12 +316,6 @@ Special thanks to:
 
 
 
-Twitter/X:
-
-```text
-@quantum_ui
-```
-
 ---
 
 <p align="center">
