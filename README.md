@@ -78,18 +78,13 @@ Beautiful dashboard-inspired components that visualize live information.
 
 Automation-focused UI elements demonstrating intelligent workflows.
 
-> Every section includes modern animations, glowing effects, and premium interactions.
-
 ---
 
-# 🚀 Live Demo
-
-> **Coming Soon**
 
 Clone and run locally:
 
 ```bash
-git clone https://github.com/your-username/quantum-landing.git
+git clone https://github.com/JahanzaibJameel/ultra-modern-dashboard
 
 cd quantum-landing
 ```
@@ -142,7 +137,7 @@ Just open and enjoy.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/quantum-landing.git
+git clone https://github.com/JahanzaibJameel/ultra-modern-dashboard
 
 cd quantum-landing
 ```
