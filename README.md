@@ -314,11 +314,7 @@ Special thanks to:
 
 **Quantum Team**
 
-GitHub:
 
-```text
-https://github.com/your-username/quantum-landing
-```
 
 Twitter/X:
 
