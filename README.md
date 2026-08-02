@@ -310,13 +310,7 @@ Special thanks to:
 
 ---
 
-# 📬 Contact
 
-**Quantum Team**
-
-
-
----
 
 <p align="center">
 
