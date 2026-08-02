@@ -310,8 +310,6 @@ Special thanks to:
 
 ---
 
-
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96-red?style=for-the-badge" alt="Made with Love">
